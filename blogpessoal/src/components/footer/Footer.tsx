@@ -11,7 +11,7 @@ function Footer(){
                 </p>
                 <p className="text-lg">Acesse as nossas redes sociais</p>
                 <div className="flex gap-2">
-                    <a href="https://www.linkedin.com/in/henrique-de-oliveira-gomes" target="_blank">
+                    <a href="https://www.linkedin.com/in/henrique-de-oliveira-gomes-a34891300" target="_blank">
                         <LinkedinLogoIcon size={48} weight="bold"/>
                     </a>
                     <a href="https://www.facebook.com/henrique.d.gomes.58" target="_blank">
